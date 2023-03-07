@@ -1,0 +1,14 @@
+
+.container{
+  background-color: rgb(230, 181, 250);
+  text-align: center;
+  width: 950px;
+  padding: 20px;
+  margin:15px;
+  position:static;
+  margin-right: 10px;
+  float:inherit;
+  margin:100px 100px;
+  box-shadow:rgb(9, 3, 3)5px 5px;
+  border-radius:20px
+}
